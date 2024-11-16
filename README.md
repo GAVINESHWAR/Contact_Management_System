@@ -53,6 +53,10 @@ JWT_SECRET=your_secret_key
 ## Duplicate Email Handling:
   Added unique indexing on the email field in MongoDB and displayed specific error messages in the frontend.
 
+## supporting Images
+![Screenshot 2024-11-16 191347](https://github.com/user-attachments/assets/07691464-7175-401d-a6bb-7d05dac800db)
+![Screenshot 2024-11-16 191401](https://github.com/user-attachments/assets/8d173d3e-98f3-4b0c-b4ae-28739d56d894)
+
 ## Pagination and Sorting:
   Used Material-UI table components and implemented server-side pagination and sorting for scalability.
 
